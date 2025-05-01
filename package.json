@@ -1,0 +1,22 @@
+{
+  "name": "wishlistr",
+  "version": "1.0.0",
+  "description": "Basic wishlist webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rbudzak/wishlistr.git"
+  },
+  "keywords": [
+    "wishlist"
+  ],
+  "author": "rbudzak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbudzak/wishlistr/issues"
+  },
+  "homepage": "https://github.com/rbudzak/wishlistr#readme"
+}
