@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rbudzak/wishlistr/issues"
   },
-  "homepage": "https://github.com/rbudzak/wishlistr#readme"
+  "homepage": "https://github.com/rbudzak/wishlistr#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }

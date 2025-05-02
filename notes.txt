@@ -1,0 +1,46 @@
+Wishlistr Notes
+
+Wishlistr is a basic wishlist web app that is, well, a wishlist
+It should allow you to:
+- View the list
+- Add to the list
+- Remove from the list
+- Edit items on the list
+
+Nice to have:
+- Drag'n'drop reordering
+- Sorting
+
+Each item in the list will display:
+- Title
+- Image
+- Link (Might just make title a link instead)
+- Price
+- Quantity
+- Timestamp
+
+Front-end will be basic HTML at first, React as a nice to have
+Backend will be node and ExpressJS
+Data stored in MySQL, accessed via Knex.js
+
+Accessed via REST API
+
+Example object:
+
+item = {
+    title: "title"
+    image: "image link"
+    link: "product link"
+    price: floatPrice
+    quantity: intQuant
+    timestamp: timestamp
+}
+
+Probably load the whole thing into an array? Just an array of objects.
+
+Cells needed:
+Title
+Image
+Price
+Quantity
+Time
